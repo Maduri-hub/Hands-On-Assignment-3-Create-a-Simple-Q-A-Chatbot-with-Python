@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+venv/
+env/
+chatbot_env/
+
+# SQLite DB
+db.sqlite3
+*.sqlite3
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
